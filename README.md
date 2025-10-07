@@ -21,7 +21,7 @@ I enjoy designing RESTful APIs, working with databases, and writing clean, maint
 
 ---
 
-### 🔗 Connect with Me
+<!-- ### 🔗 Connect with Me -->
 
 <!-- <p align="left">
   <a href="https://t.me/YourTelegramUsername" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/></a>
